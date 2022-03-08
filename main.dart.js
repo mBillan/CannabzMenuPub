@@ -31220,7 +31220,7 @@ return new A.r0(A.oE(s,A.Je(A.a3j(A.a([B.D7,A.a3j(B.yH,B.cW),B.rA,B.De,this.D2(b
 nT(){var s=0,r=A.a4(t.z)
 var $async$nT=A.a5(function(a,b){if(a===1)return A.a1(b,r)
 while(true)switch(s){case 0:s=2
-return A.a8(A.a_4(new A.yt(A.a(["marwan.billan@outlook.com"],t.s),"Patient Certificate").h(0)),$async$nT)
+return A.a8(A.a_4(new A.yt(A.a(["oditoriumphrm@super-pharm.co.il"],t.s),"Patient Certificate").h(0)),$async$nT)
 case 2:return A.a2(null,r)}})
 return A.a3($async$nT,r)},
 D2(a){return new A.vG("Send Email",B.dS,new A.X7(this),null)}}
